@@ -1,9 +1,7 @@
 # netflix
 
 step 1: make the background like netflix and have it fade
-body{
-  margin: 0;
-}
+
 
 header{
   background: linear-gradient(to right, rgba(0,0,0,0.9), rgba(0,0,0,0.05)), url('../img/background-netflix-header.jpg');
