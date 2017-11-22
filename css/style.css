@@ -1,8 +1,22 @@
-body{
+body {
   margin: 0;
 }
 
-header{
+header {
   background: linear-gradient(to right, rgba(0,0,0,0.9), rgba(0,0,0,0.05)), url('../img/background-netflix-header.jpg');
   height: 100vh;
+}
+
+nav img {
+  width: 167px;
+  height: 45px;
+}
+
+nav a.logo {
+  display: inline-block;
+  line-height: 90px;
+}
+
+header nav {
+  height: 90px;
 }
