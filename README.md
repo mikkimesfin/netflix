@@ -15,6 +15,12 @@ step 2: add netflix logo (see logo.svg)
 step 3: position netflix logo by adding class a and additing width and height to the css. see nav a.logo, nav img, and header nav in style.css
 
 
-step 4: sign in. make it white and give it a default font if the font you want isn't available. add box sizing that tells the browser not to calculate margins. 
+step 4: sign in. make it white and give it a default font if the font you want isn't available. add box sizing that tells the browser not to calculate margins.
 
 ![screen shot 2017-11-22 at 1 15 14 pm](https://user-images.githubusercontent.com/28164171/33148228-42cad608-cf88-11e7-9939-84c2f57ac74b.png)
+
+step 5:
+see pitch, pitch title, and pitch subtitle in style.css to see new changes to the heading.
+
+step 6: 
+see btn for how styling the red button  and nav .signin:hover .btn:hover to change the button when you hover.
