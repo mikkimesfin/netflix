@@ -22,5 +22,7 @@ step 4: sign in. make it white and give it a default font if the font you want i
 step 5:
 see pitch, pitch title, and pitch subtitle in style.css to see new changes to the heading.
 
-step 6: 
-see btn for how styling the red button  and nav .signin:hover .btn:hover to change the button when you hover.
+step 6:
+see btn for how styling the red join now button and nav .signin:hover .btn:hover to change the button when you hover.
+
+step 7: add three features at the bottom with flex box 
