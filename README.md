@@ -2,24 +2,19 @@
 
 Firebase URL: https://netfli-85136.firebaseapp.com
 
+![screen shot 2017-11-22 at 9 12 05 pm](https://user-images.githubusercontent.com/28164171/33158770-2bc799b8-cfca-11e7-8319-424dc4c4f870.png)
+![screen shot 2017-11-22 at 9 07 33 pm](https://user-images.githubusercontent.com/28164171/33158760-156ed668-cfca-11e7-8a05-b9dc7dfd9908.png)
+![screen shot 2017-11-22 at 9 07 50 pm](https://user-images.githubusercontent.com/28164171/33158762-1c3346b4-cfca-11e7-8db3-27ff9114541e.png)
+![screen shot 2017-11-22 at 9 09 53 pm](https://user-images.githubusercontent.com/28164171/33158766-20dad948-cfca-11e7-8bc1-fc56dc1bc82f.png)
+![screen shot 2017-11-22 at 9 10 03 pm](https://user-images.githubusercontent.com/28164171/33158769-25c3b6e6-cfca-11e7-8f69-b4a0823f3929.png)
+
 step 1: make the background like netflix and have it fade
 
-
-header{
-  background: linear-gradient(to right, rgba(0,0,0,0.9), rgba(0,0,0,0.05)), url('../img/background-netflix-header.jpg');
-  height: 100vh;
-}
-![screen shot 2017-11-22 at 12 50 50 pm](https://user-images.githubusercontent.com/28164171/33148221-3db313b0-cf88-11e7-945e-551525ece533.png)
 step 2: add netflix logo (see logo.svg)
 
-
-![screen shot 2017-11-22 at 12 58 22 pm](https://user-images.githubusercontent.com/28164171/33148223-3fba64ec-cf88-11e7-982f-c23d18ae8b4c.png)
-step 3: position netflix logo by adding class a and additing width and height to the css. see nav a.logo, nav img, and header nav in style.css
-
+step 3: position netflix logo by adding class  and also width and height to the css. see nav a.logo, nav img, and header nav in style.css
 
 step 4: sign in. make it white and give it a default font if the font you want isn't available. add box sizing that tells the browser not to calculate margins.
-
-![screen shot 2017-11-22 at 1 15 14 pm](https://user-images.githubusercontent.com/28164171/33148228-42cad608-cf88-11e7-9939-84c2f57ac74b.png)
 
 step 5:
 see pitch, pitch title, and pitch subtitle in style.css to see new changes to the heading.
