@@ -1,5 +1,7 @@
 # netflix
 
+Firebase URL: https://netfli-85136.firebaseapp.com
+
 step 1: make the background like netflix and have it fade
 
 
@@ -25,4 +27,6 @@ see pitch, pitch title, and pitch subtitle in style.css to see new changes to th
 step 6:
 see btn for how styling the red join now button and nav .signin:hover .btn:hover to change the button when you hover.
 
-step 7: add three features at the bottom with flex box 
+step 7: add three features at the bottom with flex box
+
+step 8: see the js file for making the three rows responsive. screens now change when you switch to "watch anywhere" or "pick your price"
